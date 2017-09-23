@@ -12,7 +12,7 @@ import org.testng.annotations.AfterSuite;
 public class NewTest1 {
   @Test
   public void login() {
-	  System.out.println("first login");
+	  System.out.println("first kanaka login");
   }
   
   @Test
